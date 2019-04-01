@@ -1,2 +1,6 @@
-# curso_integracion_continua
-Repositorio para el curso de integración continua
+# maven-project
+Source code for Jenkins course.
+
+Check out our Latest DevOps PDF book.
+
+https://www.level-up.one/devops-pdf-book
