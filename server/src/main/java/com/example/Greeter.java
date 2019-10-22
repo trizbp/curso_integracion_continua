@@ -20,28 +20,29 @@ public class Greeter {
   public String greet(String someone) {
     Long lalala = new Long("2333");
     if(MAGICO > 1){
-      return String.format("Hello, %s!", someone);
+      if(true){
+     lalala = new Long("45678");
+      
+    if(true){
+     lalala = new Long("45678");
+    }
+      
+    if(true){
+     lalala = new Long("45678");
+    }
+    }
+    
+    if(true){
+     lalala = new Long("45678");
+    }
+    
+    if(true){
+     lalala = new Long("45678");
+    }
+            return String.format("Hello, %s!", someone);
     }else{
         return String.format("Hello, %s!", someone);
     }
-    if(true){
-     lalala = new Long("45678");
-      
-    if(true){
-     lalala = new Long("45678");
-    }
-      
-    if(true){
-     lalala = new Long("45678");
-    }
-    }
     
-    if(true){
-     lalala = new Long("45678");
-    }
-    
-    if(true){
-     lalala = new Long("45678");
-    }
   }
 }
