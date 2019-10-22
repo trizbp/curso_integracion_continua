@@ -4,6 +4,8 @@ package com.example;
  * This is a class.
  */
 public class Greeter {
+  
+  public Long MAGICO = new Long("2333");
 
   /**
    * This is a constructor.
@@ -16,8 +18,8 @@ public class Greeter {
    * Metodo de greet modificado.
    */
   public String greet(String someone) {
-    Long lalala = new Long("2333");
-    if(lalala == 2333){
+    //Long lalala = new Long("2333");
+    if(lalala == MAGICO){
       return String.format("Hello, %s!", someone);
     }else{
         return String.format("Hello, %s!", someone);
