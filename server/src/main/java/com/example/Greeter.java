@@ -4,7 +4,6 @@ package com.example;
  * This is a class.
  */
 public class Greeter {
-  
   public Long MAGICO = new Long("2333");
 
   /**
@@ -24,6 +23,5 @@ public class Greeter {
     }else{
         return String.format("Hello, %s!", someone);
     }
-    
   }
 }
