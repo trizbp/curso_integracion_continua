@@ -3,14 +3,14 @@ package com.example;
 /**
  * This is a class.
  */
-public class Greeter {
-  public Long MAGICO = new Long("2333");
+   public class Greeter {
+  public    Long MAGICO = new Long("2333");
 
   /**
    * This is a constructor.
    */
-  public Greeter() {
-
+  public    Greeter() {
+int i = 1;
   }
 
   /**
